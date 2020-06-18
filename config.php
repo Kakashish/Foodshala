@@ -9,9 +9,9 @@
 
 
 	//online hsoting database configuration
-	$servername = "fdb24.awardspace.net";
-	$username = "3478461_foodshaladb";
+	$servername = "sql12.freemysqlhosting.net";
+	$username = "sql12349318";
 	$password = "windows@2";
-	$dbname = "3478461_foodshaladb";
+	$dbname = "sql12349318";
 
 ?>
